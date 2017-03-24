@@ -5,8 +5,6 @@ Record your responses inside the fenced code blocks below each question.
 1.  Give an example of a visual hierarchy that could be modeled with components. Explain why each piece might be it's own component.
 
     ```md
-    app is called listr
-
     component/shopping-list.js
     model/list.js
     routes/lists.js
